@@ -16,3 +16,17 @@ There are a few benefits to using phone number-based authentication:
 
 #### ScreenShot
 <img src="Screenshot_20210302-113416_Phone%20Number%20Authentication%20(1).jpg" width="200"> &nbsp; <img src="Screenshot_20210302-113507_Phone%20Number%20Authentication.jpg" width="200">
+
+
+
+- Add yours google-services.json
+- Change Authorization:key with your key from firebase project
+
+
+Implementation Guide
+
+1. Open the Project in your android studio;
+2. IMPORTANT Change the Package Name. (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
+Not able to carry this project anymore, but anybody who wanted to work on this project can do happily.
+I am attaching images with this, if you like then do try it....
